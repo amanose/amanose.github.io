@@ -1,1 +1,0 @@
-# amanose.github.io
