@@ -4,7 +4,7 @@
 >
 - [시스템 구성 및 특징](system.md)
 - [설정 및 주의사항](point.md)
-- [설치 매뉴얼](install_manual.md)
+- [설치 매뉴얼](install_manual)
 
 <br>
 
